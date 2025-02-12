@@ -1,1 +1,2 @@
-devone has made changes into devtwo.txt
+
+devtwo has made changes to devtwo.txt
